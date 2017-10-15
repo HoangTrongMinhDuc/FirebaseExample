@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728813558985",
+    "firebase_url": "https://vidufirebase-3748c.firebaseio.com",
+    "project_id": "vidufirebase-3748c",
+    "storage_bucket": "vidufirebase-3748c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728813558985:android:6a63f2b63b9cc4c2",
+        "android_client_info": {
+          "package_name": "com.hoangtrongminhduc.html5.dev.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728813558985-s0p7r150hv8ivhjfp5ntcigbkd73232f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoangtrongminhduc.html5.dev.firebaseexample",
+            "certificate_hash": "46f6338918e578cbbd9405281899c4c5f6a80262"
+          }
+        },
+        {
+          "client_id": "728813558985-2fucodrvo2fkuuh1v6vt3fe10spb63mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELGQM6V7r0Ql3FU2Yq07CYmsxfLFNJMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728813558985-2fucodrvo2fkuuh1v6vt3fe10spb63mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
